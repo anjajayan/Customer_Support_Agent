@@ -9,7 +9,7 @@ def embed_all_chunks(chunks, embedding_model_name = "text-embedding-3-small"):
 
     docs = [
         Document(page_content=c["text"],
-                 metadata={k: v for k, v in c.items() if k != "text"})
+                 metadata=c["metadata"])
         for c in chunks
     ]
     # ids are needed for ease of re-ingestion where in this list is used by the 
