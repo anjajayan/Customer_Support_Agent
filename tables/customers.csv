@@ -1,0 +1,17 @@
+customer_id,full_name,email,phone,city,state,loyalty_tier,registered_date
+C1001,Maria Gonzalez,maria.gonzalez@example.com,555-0101,Austin,TX,Gold,2022-03-14
+C1002,James Whitaker,j.whitaker@example.com,555-0102,Portland,OR,Silver,2023-07-02
+C1003,Priya Natarajan,priya.n@example.com,555-0103,Edison,NJ,Gold,2021-11-29
+C1004,Daniel Okafor,d.okafor@example.com,555-0104,Atlanta,GA,Standard,2024-01-18
+C1005,Hannah Becker,hannah.becker@example.com,555-0105,Madison,WI,Silver,2023-02-09
+C1006,Luis Ramirez,luis.ramirez@example.com,555-0106,Phoenix,AZ,Standard,2025-05-21
+C1007,Aisha Rahman,aisha.rahman@example.com,555-0107,Dearborn,MI,Gold,2020-09-30
+C1008,Thomas Nguyen,t.nguyen@example.com,555-0108,San Jose,CA,Platinum,2019-06-12
+C1009,Emily Carter,emily.carter@example.com,555-0109,Raleigh,NC,Standard,2026-02-03
+C1010,Rohan Mehta,rohan.mehta@example.com,555-0110,Plano,TX,Silver,2024-08-25
+C1011,Sophie Laurent,sophie.laurent@example.com,555-0111,Boston,MA,Standard,2025-10-07
+C1012,Marcus Johnson,marcus.j@example.com,555-0112,Chicago,IL,Gold,2022-12-19
+C1013,Grace Kim,grace.kim@example.com,555-0113,Seattle,WA,Platinum,2018-04-05
+C1014,Omar Haddad,omar.haddad@example.com,555-0114,Houston,TX,Standard,2026-06-11
+C1015,Linda Foster,linda.foster@example.com,555-0115,Denver,CO,Silver,2023-10-16
+C1016,Kevin O'Brien,kevin.obrien@example.com,555-0116,Columbus,OH,Standard,2025-01-27
